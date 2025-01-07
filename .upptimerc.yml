@@ -7,23 +7,25 @@ sites:
     url: https://reverseipdomain.com
   - name: api.reverseipdomain.com
     url: https://api.reverseipdomain.com
-  - name: Google
-    url: https://www.google.com
+  #- name: Google
+  #  url: https://www.google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.reverseipdomain.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: Reverseipdomain Status
+  introMessage: This site is used to monitor the uptime of several services on reverseipdomain.com. We may not display the uptime of all the services we have.
   navbar:
     - title: Status
       href: /
+    - title: Main Website
+      href: https://reverseipdomain.com/
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/reverse-ip
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

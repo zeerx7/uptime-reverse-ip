@@ -22,19 +22,19 @@
     "url": "https://api.reverseipdomain.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.reverseipdomain.com.ico",
     "slug": "api-reverseipdomain-com",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 16799,
-    "timeDay": 15026,
-    "timeWeek": 16799,
-    "timeMonth": 16799,
-    "timeYear": 16799,
+    "status": "up",
+    "uptime": "95.65%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "95.65%",
+    "time": 18111,
+    "timeDay": 17437,
+    "timeWeek": 18111,
+    "timeMonth": 18111,
+    "timeYear": 18111,
     "dailyMinutesDown": {
-      "2025-01-08": 0
+      "2025-01-08": 76
     }
   },
   {

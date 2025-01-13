@@ -4,7 +4,7 @@
     "url": "https://reverseipdomain.com",
     "icon": "https://icons.duckduckgo.com/ip3/reverseipdomain.com.ico",
     "slug": "reverseipdomain-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 687,
     "timeMonth": 687,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 0
+    }
   },
   {
     "name": "api.reverseipdomain.com",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.reverseipdomain.com.ico",
     "slug": "api-reverseipdomain-com",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.20%",
     "time": 10124,
     "timeDay": 552,
     "timeWeek": 10124,

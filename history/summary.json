@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/reverseipdomain.com.ico",
     "slug": "reverseipdomain-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.02%",
+    "uptimeDay": "86.67%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "98.02%",
     "time": 687,
-    "timeDay": 562,
+    "timeDay": 0,
     "timeWeek": 687,
     "timeMonth": 687,
     "timeYear": 687,
     "dailyMinutesDown": {
-      "2025-01-13": 0
+      "2025-01-14": 61,
+      "2025-01-13": 131
     }
   },
   {
@@ -25,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.reverseipdomain.com.ico",
     "slug": "api-reverseipdomain-com",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.22%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
-    "time": 10124,
-    "timeDay": 552,
-    "timeWeek": 10124,
-    "timeMonth": 10124,
-    "timeYear": 10124,
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
+    "time": 9330,
+    "timeDay": 593,
+    "timeWeek": 9330,
+    "timeMonth": 9330,
+    "timeYear": 9330,
     "dailyMinutesDown": {
       "2025-01-08": 76
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 807,
-    "timeWeek": 785,
-    "timeMonth": 785,
-    "timeYear": 785,
+    "time": 800,
+    "timeDay": 901,
+    "timeWeek": 800,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {}
   }
 ]

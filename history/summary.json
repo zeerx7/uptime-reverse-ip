@@ -112,7 +112,7 @@
     "url": "https://sub-scan-api.reverseipdomain.com/?domain=amazonaws.com",
     "icon": "https://icons.duckduckgo.com/ip3/sub-scan-api.reverseipdomain.com.ico",
     "slug": "sub-scan-api-reverseipdomain-com",
-    "status": "up",
+    "status": "down",
     "uptime": "96.16%",
     "uptimeDay": "83.89%",
     "uptimeWeek": "97.48%",

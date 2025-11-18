@@ -1,7 +1,7 @@
 url: https://sub-scan-api.reverseipdomain.com/?domain=amazonaws.com
-status: down
-code: 522
-responseTime: 19619
-lastUpdated: 2025-11-18T16:50:10.720Z
+status: up
+code: 200
+responseTime: 312
+lastUpdated: 2025-11-18T17:08:57.463Z
 startTime: 2025-01-08T08:48:17.578Z
 generator: Upptime <https://github.com/upptime/upptime>

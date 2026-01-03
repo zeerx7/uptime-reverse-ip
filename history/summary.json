@@ -125,17 +125,17 @@
     "url": "https://sub-scan-api.reverseipdomain.com/?domain=amazonaws.com",
     "icon": "https://icons.duckduckgo.com/ip3/sub-scan-api.reverseipdomain.com.ico",
     "slug": "sub-scan-api-reverseipdomain-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "84.47%",
+    "uptimeDay": "84.46%",
     "uptimeWeek": "97.46%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "98.16%",
-    "time": 1730,
-    "timeDay": 746,
-    "timeWeek": 605,
+    "time": 1728,
+    "timeDay": 727,
+    "timeWeek": 597,
     "timeMonth": 421,
-    "timeYear": 1730,
+    "timeYear": 1728,
     "dailyMinutesDown": {
       "2026-01-03": 174,
       "2026-01-02": 49,
@@ -181,8 +181,7 @@
       "2025-10-05": 752,
       "2025-10-04": 451,
       "2025-09-24": 109,
-      "2025-09-23": 335,
-      "2025-09-17": 22
+      "2025-09-23": 335
     }
   }
 ]

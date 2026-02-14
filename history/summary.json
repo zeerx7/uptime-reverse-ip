@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/reverseipdomain.com.ico",
     "slug": "reverseipdomain-com",
     "status": "up",
-    "uptime": "97.49%",
+    "uptime": "97.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
     "time": 733,
-    "timeDay": 538,
-    "timeWeek": 605,
-    "timeMonth": 677,
+    "timeDay": 570,
+    "timeWeek": 590,
+    "timeMonth": 679,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2025-11-26": 128,
@@ -47,8 +47,7 @@
       "2025-04-28": 401,
       "2025-04-26": 21,
       "2025-04-12": 17,
-      "2025-04-08": 18,
-      "2025-02-14": 32
+      "2025-04-08": 18
     }
   },
   {
@@ -57,15 +56,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.reverseipdomain.com.ico",
     "slug": "api-reverseipdomain-com",
     "status": "up",
-    "uptime": "91.47%",
+    "uptime": "91.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "82.55%",
     "uptimeYear": "90.62%",
-    "time": 1138,
-    "timeDay": 446,
+    "time": 1137,
+    "timeDay": 426,
     "timeWeek": 418,
-    "timeMonth": 418,
+    "timeMonth": 423,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2026-01-28": 1080,
@@ -118,8 +117,7 @@
       "2025-03-17": 58,
       "2025-03-15": 318,
       "2025-03-14": 19,
-      "2025-03-03": 67,
-      "2025-02-14": 358
+      "2025-03-03": 67
     }
   },
   {
@@ -128,15 +126,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sub-scan-api.reverseipdomain.com.ico",
     "slug": "sub-scan-api-reverseipdomain-com",
     "status": "up",
-    "uptime": "96.95%",
+    "uptime": "96.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.36%",
+    "uptimeMonth": "81.40%",
     "uptimeYear": "96.65%",
-    "time": 1795,
-    "timeDay": 467,
-    "timeWeek": 428,
-    "timeMonth": 3261,
+    "time": 1793,
+    "timeDay": 388,
+    "timeWeek": 416,
+    "timeMonth": 3396,
     "timeYear": 1872,
     "dailyMinutesDown": {
       "2026-01-28": 1080,

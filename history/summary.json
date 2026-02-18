@@ -4,8 +4,8 @@
     "url": "https://reverseipdomain.com",
     "icon": "https://icons.duckduckgo.com/ip3/reverseipdomain.com.ico",
     "slug": "reverseipdomain-com",
-    "status": "up",
-    "uptime": "97.52%",
+    "status": "down",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 536,
     "timeYear": 722,
     "dailyMinutesDown": {
+      "2026-02-18": 0,
       "2025-11-26": 128,
       "2025-11-25": 860,
       "2025-11-24": 894,

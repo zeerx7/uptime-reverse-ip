@@ -48,17 +48,17 @@
     "url": "https://api.reverseipdomain.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.reverseipdomain.com.ico",
     "slug": "api-reverseipdomain-com",
-    "status": "down",
-    "uptime": "93.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "93.86%",
-    "time": 549,
-    "timeDay": 259,
-    "timeWeek": 375,
-    "timeMonth": 423,
-    "timeYear": 374,
+    "status": "up",
+    "uptime": "93.37%",
+    "uptimeDay": "76.40%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "93.80%",
+    "time": 650,
+    "timeDay": 17047,
+    "timeWeek": 5958,
+    "timeMonth": 1944,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2025-07-25": 807,
       "2025-07-24": 1440,
@@ -88,7 +88,8 @@
       "2026-01-22": 1440,
       "2026-01-21": 1185,
       "2026-01-28": 1080,
-      "2026-01-27": 483
+      "2026-01-27": 483,
+      "2026-06-11": 340
     }
   },
   {
